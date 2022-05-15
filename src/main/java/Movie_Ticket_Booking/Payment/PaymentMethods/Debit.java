@@ -1,7 +1,7 @@
 package Movie_Ticket_Booking.BookingSeatsAndPayment.PaymentMethods;
 
 
-public class Debit extends PaymentProperties {
+public class Debit implements Payment {
 
     private int cardId;
     private String name;

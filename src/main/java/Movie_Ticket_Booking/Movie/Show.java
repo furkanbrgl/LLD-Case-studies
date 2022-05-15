@@ -9,7 +9,7 @@ public class Show {
     private Date CreatedDate;
     private Date StartTime;
     private Date EndTime;
-    private CinemaHall cinamaHall;
+    private CinemaHall cinemaHall;
     private Movie movie;
 
     public int getShowId() {
@@ -45,11 +45,11 @@ public class Show {
     }
 
     public CinemaHall getCinamaHall() {
-        return cinamaHall;
+        return cinemaHall;
     }
 
     public void setCinamaHall(CinemaHall cinamaHall) {
-        this.cinamaHall = cinamaHall;
+        this.cinemaHall = cinamaHall;
     }
 
     public Movie getMovie() {
