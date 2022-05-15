@@ -1,0 +1,16 @@
+USERS;
+    Person;
+        has_an_account();
+            child;
+                House Keeper
+                Receptionist
+                Guest
+                Server
+
+
+Hotel
+    Hotel Location
+        Room
+            Room Key
+            Room House Keeping
+
