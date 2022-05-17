@@ -1,6 +1,6 @@
 package Movie_Ticket_Booking.Operations;
 
-import Movie_Ticket_Booking.ShowMovie.Movie;
+import Movie_Ticket_Booking.Movie.Movie;
 
 import java.util.Date;
 import java.util.HashMap;

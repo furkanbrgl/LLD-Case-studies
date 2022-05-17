@@ -1,6 +1,6 @@
-package Movie_Ticket_Booking.BookingSeatsAndPayment;
+package Movie_Ticket_Booking.Movie;
 
-public class ShowSeat {
+public class ShowSeat extends CinemaHallSeat{
 
     private int showSeatId;
     private boolean isReserved;

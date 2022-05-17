@@ -1,4 +1,4 @@
-package PatternBased.ClashOfClans.Implementation;
+package PatternBased.ClashOfClans.Implementation.AttackTypes;
 
 import PatternBased.ClashOfClans.Interfaces.IAttackType;
 

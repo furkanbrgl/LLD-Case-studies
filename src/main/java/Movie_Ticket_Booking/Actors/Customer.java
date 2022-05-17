@@ -1,13 +1,15 @@
 package Movie_Ticket_Booking.Actors;
 
-import Movie_Ticket_Booking.BookingSeatsAndPayment.Booking;
-import Movie_Ticket_Booking.BookingSeatsAndPayment.ShowSeat;
+import Movie_Ticket_Booking.Operations.Search;
+import Movie_Ticket_Booking.Payment.Booking;
+import Movie_Ticket_Booking.Movie.ShowSeat;
 
 import java.sql.*;
 import java.util.List;
 
 public class Customer extends Person{
 
+    Search search;
 
     public List<Booking> getBookings(){
         return null;

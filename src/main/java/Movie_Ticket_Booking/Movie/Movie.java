@@ -1,4 +1,4 @@
-package Movie_Ticket_Booking.ShowMovie;
+package Movie_Ticket_Booking.Movie;
 
 import Movie_Ticket_Booking.Actors.Admin;
 

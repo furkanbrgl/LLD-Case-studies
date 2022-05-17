@@ -1,4 +1,4 @@
-package Movie_Ticket_Booking.CityCinemaAndHalls;
+package Movie_Ticket_Booking.Movie;
 
 public class City {
 

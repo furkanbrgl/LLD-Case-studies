@@ -1,6 +1,4 @@
-package Movie_Ticket_Booking.CityCinemaAndHalls;
-
-import Movie_Ticket_Booking.ShowMovie.Show;
+package Movie_Ticket_Booking.Movie;
 
 import java.util.List;
 
@@ -10,6 +8,6 @@ public class CinemaHall {
     private int totalSeats;
     private Cinema cinema;
 
- //   private List<CinemaHallSeat> seats;
+    private List<CinemaHallSeat> seats;
     private List<Show> shows;
 }

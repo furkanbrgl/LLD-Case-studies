@@ -1,9 +1,11 @@
-package Movie_Ticket_Booking.BookingSeatsAndPayment;
+package Movie_Ticket_Booking.Payment;
 
 import Hotel_Management.Enums.BookingStatus;
 import Movie_Ticket_Booking.Actors.Customer;
-import Movie_Ticket_Booking.BookingSeatsAndPayment.PaymentMethods.Payment;
+import Movie_Ticket_Booking.Actors.FrontDeskOfficer;
+import Movie_Ticket_Booking.Payment.PaymentMethods.Payment;
 import Movie_Ticket_Booking.Movie.Show;
+import Movie_Ticket_Booking.Movie.ShowSeat;
 
 import java.util.Date;
 import java.util.List;
@@ -14,6 +16,7 @@ public class Booking {
     private int numberOfSeat;
     private Date createdOn;
     private BookingStatus bookingStatus;
+    private FrontDeskOfficer frontDeskOfficer;
     private Customer customer;
     private Show show;
     private List<ShowSeat> showSeats;

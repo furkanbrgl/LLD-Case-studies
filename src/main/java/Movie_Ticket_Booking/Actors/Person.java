@@ -8,5 +8,5 @@ public abstract class Person {
     private String email;
     private String phone;
 
-    private Account account;
+    private Account account; // Composition. Create has a realation
 }

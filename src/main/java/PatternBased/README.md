@@ -1,3 +1,4 @@
 
-      Strategy Pattern
+      Pattern Based Cases
+
 

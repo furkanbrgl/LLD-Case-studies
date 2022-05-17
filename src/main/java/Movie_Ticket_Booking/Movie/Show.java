@@ -1,6 +1,4 @@
-package Movie_Ticket_Booking.ShowMovie;
-
-import Movie_Ticket_Booking.CityCinemaAndHalls.CinemaHall;
+package Movie_Ticket_Booking.Movie;
 
 import java.util.Date;
 

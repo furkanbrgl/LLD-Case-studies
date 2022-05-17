@@ -1,16 +1,24 @@
 USERS;
-    Person;
-        has_an_account();
-            child;
-                House Keeper
-                Receptionist
-                Guest
-                Server
+    Guest
+    Customer
+    Admin
+    Clerk
 
 
-Hotel
-    Hotel Location
-        Room
-            Room Key
-            Room House Keeping
 
+City
+Cinema
+CinemaHall
+Show
+
+
+CinemaHall Seat
+Booking
+Ticket
+Payment
+
+Notification
+
+
+ENUMS--
+DataType Entities -- Address

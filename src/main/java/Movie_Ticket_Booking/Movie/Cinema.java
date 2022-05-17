@@ -1,8 +1,7 @@
-package Movie_Ticket_Booking.CityCinemaAndHalls;
+package Movie_Ticket_Booking.Movie;
 
 import Hotel_Management.Data.Address;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
